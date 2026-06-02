@@ -1,7 +1,10 @@
 # Личный проект «Седона»
 
-* Студент: [Юлия Море](https://up.htmlacademy.ru/htmlcss-individual/2/user/2647027).
-* Наставник: `Неизвестно`.
+- Студент: [Юлия Море](https://up.htmlacademy.ru/htmlcss-individual/2/user/2647027).
+- Наставник: [
+Виктория
+Никитина ] (https://htmlacademy.ru/profile/id1217273).
+- Мой проект "Седона" https://yuliya19-96.github.io/2647027-sedona-2/
 
 ---
 
